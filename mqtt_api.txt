@@ -1,0 +1,28 @@
+
+
+Topic: dsiot/gp/gas
+
+{
+  "did": "GP101",
+  "alarm": 1,
+  "type": "SOS"
+}
+
+
+
+{
+  "did": "GP101",
+  "alarm": 1,
+  "type": "RF"
+}
+
+
+
+
+
+Topic: dsiot/gp/snooze
+
+{
+	"did":"GP101",
+	"stime":"20" //seconds
+}
